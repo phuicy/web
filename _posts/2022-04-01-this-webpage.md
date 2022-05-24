@@ -17,3 +17,7 @@ Beyond this, the styling for this website directly combines 2 templates:
 Beyond this I have added a Dark theme in the menu, I found the code from some Medium blog, the colours are oddly inverted. But it worked and my care for perfection is limited.
 
 This was an attempt to make an attractive content focussed webpage whilst reducing the bloat.
+
+This webpage is 165KB, 135KB of which is font, hmmm I will try and fix that.
+Currently, visiting this webpage has released [0.03g](https://www.websitecarbon.com/website/hotspotrobotics-com-2022-05-01-this-webpage/) of CO2.
+I might try and move the webpage to a solarpowered raspberry pi.
