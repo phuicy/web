@@ -57,7 +57,7 @@
     padding-bottom: 15px;
 }
 
-.Section{
+h1, .Section{
     font-family: CMB;
     font-size: 33px;
     text-align: Left;
@@ -66,7 +66,7 @@
 }
 
 
-.SubSection{
+h2, .SubSection{
     font-family: CMB;
     font-size: 29px;
     text-align: Left;
@@ -74,7 +74,7 @@
     margin-bottom: 20px;
 }
 
-.BodyText{
+p, .BodyText{
     font-family: CMR;
     font-size: 23px;
     text-align: Left;
