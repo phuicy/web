@@ -43,7 +43,7 @@ html, html[data-theme="light"] {
     --code: #011301;
     font-family: "PT Serif", Georgia, "Times New Roman", serif;
     background-color: rgb(255, 255, 255);
-    color:#c0c0c0;
+    color:#505050;
 }
 
 html[data-theme="dark"] {
@@ -54,7 +54,7 @@ html[data-theme="dark"] {
       --code: #f9f9f9;
       font-family: "PT Serif", Georgia, "Times New Roman", serif;
       background-color: rgb(28, 28, 30);
-      color: #505050;
+      color: #c0c0c0;
 	}
 
 @media (prefers-color-scheme: dark) {
