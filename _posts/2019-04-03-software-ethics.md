@@ -6,7 +6,7 @@ date: May 2019
 abstract: This is a brief article I started working on before the Pandemic, then life got away from me. I haven't rethought the position since, but I do believe the major concept still holds. Special thanks to Prof. Alan Winfield for discussing this topic with me. I thought about getting published in a peer reviewed journal, but I would have to wait for the "Old man shouting at cloud" special issue.
 ---
 
-#1. An urgent need 
+# An urgent need 
 
 {:.BodyText .Justified}
 Future elections and democracies will be irrevocably damaged by Deepfakes.  At the end of 2017, a Reddit user going by the name Deepfakes released a machine learning-based software package capable of faking footage of another person with no technical expertise required. Non-consensual pornography of celebrities was an immediate consequence of the public availability of this software [1] [2]. Whilst this is doubtlessly of great personal distress to the people affected, even more worrying for society is the effect the availability of this technology will have on the public’s relationship with the truth, with examples of Deepfakes being used to defame politicians appearing on major news channels, such as fake footage of US Speaker of the House Nancy Pelosi appearing on Fox news [3]. In the 2020 US presidential elections, without urgent action, deep-fakes will wash across social media further eroding the public’s ability to identify “fake news”. 
@@ -31,7 +31,7 @@ Thus, to avoid further damage the Machine-Learning research community must organ
 
  
 
-#1. Historical Context 
+# Historical Context 
 
 {:.BodyText .Justified}
 Since the enlightenment, research has been motivated by a positive assurance that its results will benefit of humankind. The field of Research Ethics address some of the reasons why distrust in research could develop in parallel to this optimistic belief in future progress. Such distrust arose in the wake of abuse directed at individuals and fear of destructive consequences for society and life. In these conflicts, a recognition arose of how these internal scientific norms (as well as the professional ethics of the researchers) were insufficient to protect individuals against abuse and prevent destructive consequences. The Second World War is considered the most important landmark in research ethics, with the scientific and medical experiments conducted on prisoners of war in the concentration camps . Altogether 23 doctors were brought to justice in Nuremberg in 1947 for having conducted medical research on people in the concentration camps. As a direct result of the trial, the Nuremberg Code was established in 1948, stating that "The voluntary consent of the human subject is absolutely essential," making it clear that subjects must give consent, and that the benefits of research must outweigh the risks.  Although it did not carry the force of law, the Nuremberg Code was the first international document which advocated voluntary participation and informed consent. Another key event in research ethics was the Manhattan Project, a large-scale research project to produce atomic bombs, which marked a landmark where theoretical research would rapidly developed to  a world destroying threat. 
@@ -48,7 +48,7 @@ In 1966 the first research ethics committees were set up in the United Kingdom, 
 {:.BodyText .Justified}
 This short history lesson serves to demonstrate a resistance to medical ethics which now appears to be integral and foundational to the medical field. This resistance to regulation is also present in the ML field.  
 
-#1. Arguments against self-regulation 
+# Arguments against self-regulation 
 
 {:.BodyText .Justified}
 The main argument against self-regulation which has been informally discussed at conferences is its believed infeasibility. However, many other fields have managed the transition to “profession”. What follows is an exploration into the arguments that are used to demonstrate infeasibility, with this setting the relational context to other fields will be established, and details of the proposed profession will be expanded upon.  
@@ -72,7 +72,7 @@ Any ethically driven profession manages to (self) regulate through requiring act
 {:.BodyText .Justified}
 An interesting method proposed for limiting unethical research in the biotechnology field is through the use of patents. Thus, as a suggestion one could obtain a patent on the use of Deepfake-like technology applied for unethical purposes or the products thereof. This would allow the owner of the patent to sue websites, newspapers or producers that host or create unethical Deepfake materials, performing an ethical service to the world whilst making a profit from bad actors 
 
-#1. Self-Regulation of ML 
+# Self-Regulation of ML 
 
 {:.BodyText .Justified}
 It is proposed that the field of Machine Learning self-regulates through mandatory affiliation to a professional body inorder to practice. This professional body would require members to follow ethical guidelines and standards. Ethics reviews would need to be convened prior to any research, and work with significant consequences would require the convening of an ethics committee. The ethics committee would consist of neutral experts and lay-people determining review work to maximise the potential value to society from the research. The professional body would support this process, minimising the impact and cost of this process on individual researchers.  
@@ -83,7 +83,7 @@ Additionally, the professional body would also provide unionisation of the profe
 {:.BodyText .Justified}
 A set of leading Councils would have to be appointed to determine the ethical guidelines. Ethical guidelines or a Code of Ethics and guidelines would not only focus on social issues but also give a baseline for professional conduct as it pertains to quality.  The council would also provide a coherent national focal point for market-led ML activity, presenting a visible and open front door to engage end-users and international inward investment.  
 
-#1. Machine Learning and Software 
+# Machine Learning and Software 
 
 {:.BodyText .Justified}
 To all practical intents and purpose Machine learning is a statistically focussed subset of software development. Thus, software faces many of the same issues as machine learning and many more that ML have yet to tackle in detail; primarily in privacy and security.  
@@ -101,7 +101,7 @@ Figure 3: Venn diagram for the field research of Machine Learning and related fi
 {:.BodyText .Justified}
 The natural alignment between Software and Autonomous system would make their combined profession a logical union.  
 
-#1. Related Work 
+# Related Work 
 
 {:.BodyText .Justified}
 The following is a brief exploration of the related work of establishing self-regulation within Machine learning and the software community. One such is the adoption of “Algorithmic assessment studies” by governments such as Canada [22]. “Algorithmic assessment studies” aim to minimise the potential impacts on society of potentially “racist” or un-inclusive algorithms that lead to algorithmic bias [23]. However, the fixed assessment does not give an adequate mechanism as it is not flexible enough to consider larger or outlier cases or suggest reasonable remediation actions. Algorithmic impact assessments defined by a professional body augmented with ethics committees for necessary cases would provide an excellent mechanism for ethical review. 
@@ -115,7 +115,7 @@ As a different example of the growing interest and will to implement ethical reg
 {:.BodyText .Justified}
 Within the UK Robotics and Autonomous system community, there have been significant efforts to establish some ethical standards, with several technical parliamentary inquiries published [20], and the British Standard 8611:2016 “Robots and robotic devices. Guide to the ethical design and application of robots and robotic systems”, which is possibly the world’s first standard on robot ethics. This Standard forms the basis of how self-regulation would be applied, presenting concepts such as Ethical risk assessments, but still needs a mechanism to ensure regulation. 
 
-#1. Conclusion 
+# Conclusion 
 
 {:.BodyText .Justified}
 As argued for the benefit of the community and society Software Engineering and Machine Learning must self-regulate its research and application through the implementation of self-governing professional bodies. The profession would need to encourage membership through the benefits, and external pressures possibly applied through the condition of employment.  
