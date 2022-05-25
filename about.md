@@ -4,13 +4,13 @@ title: Guy Burroughes
 abstract: A robotics and autonomous systems researcher and engineer with applications expertises in challenging environments. 
 ---
 
-#1. Research Interests
+# Research Interests
 
-##1. Handling
+## Handling
 
 
 
-##1. Fusion Remote Handling
+## Fusion Remote Handling
 
 {:.BodyText .Justified}
 While working at the UK Atomic Energy Authority and having the opportunity to be an Eurofusion Fellow early in my career, I have had the occassion to build a large amount of experience in Fusion maintenance robotics. I have worked on robotics systems for JET(Joint European Torus), ITER, and DEMO remote maintenance. 
@@ -22,17 +22,17 @@ maintenance plant is stupidly difficult and why the requirements push every desi
 {:.BodyText .Justified}
 I have had the opportunity to support in the deployment of Digital twins, Robotics, control systems, distributed systems, Autonomous systems, Computer vision systems, planning and scheduling systems, and many other things.
 
-##1. Other challenging environments
+## Other challenging environments
 
 Space Robotics, well my PhD was in space robotics
 
 Decommissioning Robotics, my Job title is Key Lead for Decom, which translates Chief technical for decom robotics, UKAEA.
 
-#1. Selected Publications
+# Selected Publications
 
-*Soon if I can be bothered
+* Soon if I can be bothered
 
-#1. Hobbies
+# Hobbies
 
 {:.BodyText .Justified}
 As part of my inability to sit still for more than 2 hours, I have a wide range of hobbies that I don't spend enough time on.
