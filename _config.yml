@@ -17,6 +17,7 @@ plugins:
   - jekyll-toc
   - jekyll-numbered-headings
   - jekyll-category-pages
+  - jekyll-sitemap
 
 # Custom vars
 version:             1.1.0
