@@ -7,6 +7,7 @@ abstract: A Principal robotics and autonomous systems researcher and engineer wi
 # Research and Engineering Interests
 
 ## Handling
+
 {:.BodyText .Justified}
 I am deeply excited with getting Robotic Handling working, where I define robotic handling as:
 
@@ -17,15 +18,18 @@ I have had the opportunity to work on a vairety systems of various scales around
 In particular, developing Teleoperation, Autonmation, Autonomy, semi-autonomy, hardware for handling, and digital twins.
 
 ### Teleoperation
+
 {:.BodyText .Justified}
 I have experimented with a range of teleoperation techniques, having developed multiple input devices, control schemes, and software for teleoperations; such as, VR-based control, haptic gloves, controller-based, symmetric telemanipulators (using cobots as input and output haptic devices) and assymmetric tele-manipulators (e.g. [haptions](https://www.haption.com/en/products-en/virtuose-6d-en.html)). I have also had the opportunity to collaborate extensively on teleoperation optimised inverse kinematics. 
 
 ### Automation
+
 {:.BodyText .Justified}
 Integrating automation into a handling system is non-trivial due to the increased level of uncertainty.
 
 
 ### Autonomy and Semi Autonomy
+
 {:.BodyText .Justified}
 * Autonomous grasping - Structured and unstructured grapsing
 * Autonomous Wipiing/sweeping
@@ -38,11 +42,13 @@ Integrating automation into a handling system is non-trivial due to the increase
 
 
 ### Hardware
+
  {:.BodyText .Justified}
  I am currently working on a concept for a different type of robot suitable for Handling. In particular, robots capable manipulating payloads multiple times their weight for short periods of time, through variable accuracy and stiffness. I am defintely going to blogging on this topic more. 
 
 
 ### Digital Twins
+
  {:.BodyText .Justified}
  * Photo-realistic live digital twins, for limited view operations, operation planning, and dataset generation.
  * Mixed-reality for operations.
