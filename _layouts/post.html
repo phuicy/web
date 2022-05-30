@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+<article>
 <div class="post">
     <p class="LatexTitle">{{ page.title }}</p>
     {% if page.author %} <p class="LatexName">{{ page.author }}</p> {% endif %}
@@ -17,8 +17,9 @@ layout: default
 
 
 </div>
-
+</article>
 {% if site.related_posts.size >= 1 %}
+<nav>
 <div class="related">
   <h2>Related posts</h2>
   <ul class="related-posts">
@@ -34,4 +35,5 @@ layout: default
     {% endfor %}
   </ul>
 </div>
+</nav>
 {% endif %}
