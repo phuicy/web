@@ -2,6 +2,7 @@
 layout: default
 ---
 
+<article>
 <div class="page">
   <p class="LatexTitle">{{ page.title }}</p>
   {% if page.author %} <p class="LatexName">{{ page.author }}</p> {% endif %}
@@ -15,3 +16,4 @@ layout: default
   
   {{ content | toc }}
 </div>
+</article>
