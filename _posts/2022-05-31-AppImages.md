@@ -2,7 +2,7 @@
 layout: post
 title: AppImanges and ROS2
 author: Guy Burroughes
-date: 
+date: 31 May 2022
 abstract: A brief tutorial on how to start using ROS2 applicaitons in AppImages.
 ---
 
@@ -161,8 +161,10 @@ DDS (Data Distribution System) is a middleware standard that aims to enable depe
   ```bash
   chmod +x unilateral-x86-64.appimage
   ```
-  
+## An Example
 
+[https://github.com/phuicy/Kinova-Torque-Control](https://github.com/phuicy/Kinova-Torque-Control)
+  
 ## Conclusion
   
 You now have 5MB of pure power.
