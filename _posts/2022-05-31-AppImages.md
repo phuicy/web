@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AppImanges and ROS2
+title: AppImages and ROS2
 author: Guy Burroughes
 date: 31 May 2022
 abstract: A brief tutorial on how to start using ROS2 applicaitons in AppImages.
