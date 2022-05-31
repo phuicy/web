@@ -149,14 +149,14 @@ DDS (Data Distribution System) is a middleware standard that aims to enable depe
   ```
   
   Explanation:
-    
-    -  ```--appdir AppDir``` - specify to use AppDir
-    - ```  -o appimage``` - output an AppImage
-    - ```-d ../desktop/bilateral.desktop ``` - specify desktop file location
-    - ```-i ../desktop/logo.png ``` - specify icon file location
-    - ```-l  ``` - spcify all the libraries that the linuxdeploy can't autmagically find in rpath because they are live loaded. Namely DDS distos and messages.
-  
-  * Step 7 - Make executable and rename
+
+  -  ```--appdir AppDir``` - specify to use AppDir
+  - ```  -o appimage``` - output an AppImage
+  - ```-d ../desktop/bilateral.desktop ``` - specify desktop file location
+  - ```-i ../desktop/logo.png ``` - specify icon file location
+  - ```-l  ``` - spcify all the libraries that the linuxdeploy can't autmagically find in rpath because they are live loaded. Namely DDS distos and messages.
+
+* Step 7 - Make executable and rename
   
   ```bash
   chmod +x unilateral-x86-64.appimage
