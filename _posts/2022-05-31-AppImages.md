@@ -169,6 +169,7 @@ DDS (Data Distribution System) is a middleware standard that aims to enable depe
   
 You now have 5MB of pure power.
 This also works great for QT and RQT applicaitons.
-  
- This solution is flawed and hacky, but elegance be damned. 
-  Perfection is the enemy of good and deploying anything.
+
+This solution is flawed and hacky, but elegance be damned. 
+Perfection is the enemy of good and deploying anything.
+Perfectionism is procrastination for the talented.
