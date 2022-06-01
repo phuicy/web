@@ -77,6 +77,7 @@ Hand-rolling AppImages while possible would be pure massochism. Thus a variety o
 linuxdeploy is designed to be an AppDir maintenance tool. It provides extensive functionalities to create and bundle AppDirs for applications. It features a plugin system that allows for easy bundling of frameworks and creating output bundles such as AppImages with little effort [\[4\]](https://github.com/linuxdeploy/linuxdeploy).
 
 ### ROS2
+  
 {:.BodyText .Justified}
 ROS2 builds on the beauty of ROS1. For our purposes the major change is the move from a bespoke communication system to a abstracted DDS system.
 DDS (Data Distribution System) is a middleware standard that aims to enable dependable, high-performance, interoperable, real-time, scalable data exchanges using a publish–subscribe pattern. DDS addresses the needs of applications like aerospace and defense, air-traffic control, autonomous vehicles, medical devices, robotics, power generation, simulation and testing, smart grid management, transportation systems, and other applications that require real-time data exchange. 
