@@ -11,7 +11,7 @@ abstract: This is a brief article I started working on before the Pandemic, then
 {:.BodyText .Justified}
 Future elections and democracies will be irrevocably damaged by Deepfakes.  At the end of 2017, a Reddit user going by the name Deepfakes released a machine learning-based software package capable of faking footage of another person with no technical expertise required. Non-consensual pornography of celebrities was an immediate consequence of the public availability of this software [1] [2]. Whilst this is doubtlessly of great personal distress to the people affected, even more worrying for society is the effect the availability of this technology will have on the public’s relationship with the truth, with examples of Deepfakes being used to defame politicians appearing on major news channels, such as fake footage of US Speaker of the House Nancy Pelosi appearing on Fox news [3]. In the 2020 US presidential elections, without urgent action, deep-fakes will wash across social media further eroding the public’s ability to identify “fake news”. 
 
-Image result for deepfake politics 
+![Real-time impersonation of political leaders. ](/public/images/putin.png)
 
 Figure 1: Real-time impersonation of political leaders. 
 
@@ -59,7 +59,7 @@ One of the largest distinctions in the advances made in the field of ML versus o
 {:.BodyText .Justified}
 An additional argument comes from the anonymous nature of the internet, allowing for malicious ML research or its products to be easily and anonymously propagated.  This issue is not unique to ML research, with examples of dangerous chemistry methods for making dangerous substances (e.g. explosives) being limited in publication [14]. It is worth noting that in established publications within the Medical field, publishers and editors will host quarterly ethics reviews. These reviews are to ensure the ethics of publications and have recently been strengthened in response to the MMR vaccination scandal in the Lancet [15] and a reproducibility crisis [16]. It is worth noting at this point that ML is also facing a reproducibility crisis [17], which is exacerbated through the use of Arxiv as the primary publishing platform removing the low bar of peer-review, with 344 ML publications to the Arxiv between the 2nd and 4th of December 2019, for example; further illustrated in Figure 2. 
 
-Image result for arxiv machine learning 
+![Machine Learning Arxiv papers per year vs Moore’s Law ](/public/images/arxiv.png)
 
 Figure 2: Machine Learning Arxiv papers per year vs Moore’s Law 
 
@@ -95,6 +95,7 @@ GDPR was a sensible regulatory response to a growing concern within society over
 Another pending issue within the software community is quality. To some degree this quality crisis has been masked by Moore’s law. For example, word processors since 1995 have only gained very few key features but have become slower in user response and 1000s of times larger, during 30 years of hardware performance doubling every 1.5 years; this is commonly referred to as Wirth’s law. Moreover, almost all users have become accepting to the point of blindness to the inevitability of software bugs and failure, something that would not be accepted in any other profession.  As a related consideration, software development would benefit from a training scheme that requires in-work training, like many other professions. “Software carpentry” is a growing movement within the community to lead inclusive community teaching data and coding skills, leading to a concept of a software apprenticeship, with programming being treated as a craft to be mastered. 
 
  
+![Venn diagram for the field research of Machine Learning and related fields.](/public/images/venn.png)
 
 Figure 3: Venn diagram for the field research of Machine Learning and related fields. 
 
