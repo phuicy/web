@@ -3,7 +3,7 @@ layout: post
 title: AppImages and ROS2
 author: Guy Burroughes
 date: 31 May 2022
-abstract: A brief tutorial on how to start using ROS2 applicaitons in AppImages.
+abstract: A brief tutorial on how to start using ROS2 applications in AppImages.
 ---
 
 # ROS2 in an AppImage
